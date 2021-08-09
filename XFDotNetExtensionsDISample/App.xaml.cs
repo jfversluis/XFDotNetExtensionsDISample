@@ -10,6 +10,8 @@ namespace XFDotNetExtensionsDISample
         {
             InitializeComponent();
 
+            Startup.Init();
+
             MainPage = new MainPage();
         }
 
